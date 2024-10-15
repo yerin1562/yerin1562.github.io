@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Yeringwak Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://yerin1562.github.io/</link>
     <description>Recent content in Home on Yeringwak Blog</description>
     <generator>Hugo</generator>
     <language>ko</language>
     <lastBuildDate>Fri, 11 Oct 2024 18:21:45 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yerin1562.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://yerin1562.github.io/posts/my-first-post/</link>
       <pubDate>Fri, 11 Oct 2024 18:21:45 +0900</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://yerin1562.github.io/posts/my-first-post/</guid>
       <description>&lt;p&gt;안녕하세요 5번째 시도입니다&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>My first test post</title>
-      <link>http://localhost:1313/posts/first/</link>
+      <link>https://yerin1562.github.io/posts/first/</link>
       <pubDate>Fri, 11 Oct 2024 17:01:05 +0900</pubDate>
-      <guid>http://localhost:1313/posts/first/</guid>
+      <guid>https://yerin1562.github.io/posts/first/</guid>
       <description>&lt;p&gt;This is some content.&#xA;I am so excited to see it work.&lt;/p&gt;&#xA;&lt;p&gt;한국어 실험도 해보기.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;(String&lt;span style=&#34;color:#f92672&#34;&gt;[]&lt;/span&gt; args) {&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    System.&lt;span style=&#34;color:#a6e22e&#34;&gt;out&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;This is a print statement&amp;#34;&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
   </channel>
